@@ -1,5 +1,7 @@
 # PlanB Quant Investing Implementation
-Python implementation of PlanB Quant Investing article: https://planbtc.com/20220807QuantInvesting101.pdf
+Python implementation of PlanB Quant Investing article:
+
+https://planbtc.com/20220807QuantInvesting101.pdf
 
 https://twitter.com/100trillionUSD/status/1556626501692526597
 
